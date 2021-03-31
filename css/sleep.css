@@ -1,0 +1,42 @@
+div{
+  background-color: #76a9f5;
+
+}
+
+body{
+  margin: 0px 0px 900px  ;
+width: 29000px;
+background-color: #10004f;
+}
+img{\
+width: 0px 0px 0px 100px;
+}
+.div2 {
+
+}
+.table
+{
+  border-style: solid ;
+  width: 5%;
+}
+h1 {
+  font-style: italic;
+  font-weight:normal;
+  color: #b1bed5;
+  line-height: 2;
+}
+p{
+  font-style: oblique;
+}
+.bro {
+position:relative;
+left:700px;
+bottom:150px;
+}
+.gg {
+position: relative ;right: 500px;
+top: 5px;
+width: 85%;
+}
+.h8 {
+}
